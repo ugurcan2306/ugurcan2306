@@ -1,1 +1,1 @@
-Hi, i am Uğurcan. My department is computer science in Bilkent University. I love playing basketball.
+Hi, i am Uğurcan. I am a computer science student at Bilkent University
